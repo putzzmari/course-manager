@@ -1,4 +1,4 @@
-# Curso Básico de Angular
+# Curso Básico de Angular 8 - Basic Course of Angular 8
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
 

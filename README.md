@@ -8,6 +8,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 This project was created to manage a system of courses, where is possible you view the list of courses, edit, registered new courses and delete them.
 
+![](/src/assets/images/courseManager.jpg)
+
 ## Development server
 
 Use ng serve ou npm start para rodar a aplicação no localhost.

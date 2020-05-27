@@ -8,7 +8,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 This project was created to manage a system of courses, where is possible you view the list of courses, edit, registered new courses and delete them.
 
-![](https://github.com/dev-mariana/course-manager/blob/31-03-2020/src/assets/images/courseManager.jpg)
+![](https://github.com/dev-mariana/course-manager/blob/31-03-2020/src/assets/images/courseManager.PNG)
 
 ## Development server
 

@@ -10,6 +10,14 @@ This project was created to manage a system of courses, where is possible you vi
 
 ![](https://github.com/dev-mariana/course-manager/blob/31-03-2020/src/assets/images/courseManager.PNG)
 
+## Instalação - Installation
+
+1. clone o repositório `git clone git@github.com:dev-mariana/course-manager.git`.
+2. Entre no projeto e instale as dependencias `npm install`.
+
+1. Use git glone in the repository `git clone git@github.com:dev-mariana/course-manager.git`.
+2. Access the folder of project and install the dependencies. 
+
 ## Development server
 
 Use ng serve ou npm start para rodar a aplicação no localhost.
@@ -18,6 +26,14 @@ Acesse a pasta servers e use o "node server.js" para rodar a api em node.
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 Run "node server.js" for a api.
+
+## Simulando o Back-end - Simullating the Back-end
+
+Esse projeto precisa já ter instalado o node.js no computador.
+Acesse a pasta servers do projeto e execute `node server.js` para o servidor ser inicializado na url `http://localhost:3000/`, após a inicialização será possível realizar requisições http.
+
+This project must already have installed node.js on the computer.
+After, access the project's servers folder and run `node server.js` for the server to be initialized at the url `http://localhost:3000/`, after initialization it will be possible to make http requests.
 
 ## Code scaffolding
 

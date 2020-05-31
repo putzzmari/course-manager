@@ -21,7 +21,6 @@ This project was created to manage a system of courses, where is possible you vi
 ## Development server
 
 Use ng serve ou npm start para rodar a aplicação no localhost.
-Acesse a pasta servers e use o "node server.js" para rodar a api em node.
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 

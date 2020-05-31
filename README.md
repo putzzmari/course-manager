@@ -25,8 +25,6 @@ Acesse a pasta servers e use o "node server.js" para rodar a api em node.
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-Run "node server.js" for a api.
-
 ## Simulando o Back-end - Simullating the Back-end
 
 Esse projeto precisa já ter instalado o node.js no computador.

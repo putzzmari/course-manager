@@ -15,14 +15,14 @@ This project was created to manage a system of courses, where is possible you vi
 1. clone o repositório `git clone git@github.com:dev-mariana/course-manager.git`.
 2. Entre no projeto e instale as dependencias `npm install`.
 
-1. Use git glone in the repository `git clone git@github.com:dev-mariana/course-manager.git`.
+1. Use git clone in the repository `git clone git@github.com:dev-mariana/course-manager.git`.
 2. Access the folder of project and install the dependencies. 
 
-## Development server
+## Ambiente Local - Development server
 
 Use ng serve ou npm start para rodar a aplicação no localhost.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `ng serve` for a development server, navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Simulando o Back-end - Simullating the Back-end
 
